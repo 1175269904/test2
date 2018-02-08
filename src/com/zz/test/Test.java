@@ -3,7 +3,8 @@ package com.zz.test;
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Github");
+		System.out.println("Hello Github 1");
+		System.out.println("Hello Github 2");
 	}
 
 }
